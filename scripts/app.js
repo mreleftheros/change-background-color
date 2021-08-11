@@ -13,7 +13,7 @@ const getRandomColor = () => {
 const changeBackground = () => {
   const randomColor = getRandomColor();
 
-  document.body.backgroundColor = randomColor;
+  document.body.style.backgroundColor = randomColor;
 };
 
 // events
