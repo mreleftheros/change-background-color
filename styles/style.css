@@ -30,5 +30,5 @@ body {
   transition: background 0.3s ease;
 }
 .content__btn:hover {
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.1);
 }/*# sourceMappingURL=style.css.map */
