@@ -19,7 +19,6 @@ const getRandomColor = () => {
 // function that takes a color and changes html body background
 const changeBackground = () => {
   const randomColor = getRandomColor();
-  console.log(randomColor)
 
   document.body.style.backgroundColor = randomColor;
 };
